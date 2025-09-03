@@ -28,9 +28,6 @@ Tela Inicial	Seleção de Modo	Lobby
 		
 Tela de Jogo	Seleção de Letra (Clássico)	Tela de Vitória
 		
-<!-- Sugestão: Faça upload dos seus screenshots para o Imgur e cole os links aqui -->
-<img width="1024" height="1024" alt="logo-wordtime" src="https://github.com/user-attachments/assets/553e8a36-c5a5-4cee-b9a4-27273cc422c5" />
-
 
 🛠️ Tecnologias Utilizadas
 
@@ -101,6 +98,7 @@ Adicionar power-ups durante as rodadas (tempo extra, dica de letra, etc.).
 Animações de transição entre telas e eventos.
 
 Login de usuários com Firebase Auth para salvar o progresso.
+
 
 
 
